@@ -1,0 +1,10 @@
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\bin\Debug\CadastroBd.exe.config
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\bin\Debug\CadastroBd.exe
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\bin\Debug\CadastroBd.pdb
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.csprojAssemblyReference.cache
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.Form1.resources
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.Properties.Resources.resources
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.csproj.GenerateResource.cache
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.csproj.CoreCompileInputs.cache
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.exe
+C:\Users\fabri\source\repos\CadastroBd\CadastroBd\obj\Debug\CadastroBd.pdb
